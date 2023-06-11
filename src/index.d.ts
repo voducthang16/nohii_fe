@@ -1,0 +1,1 @@
+declare const REACT_APP_BUILD_TIME: string

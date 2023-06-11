@@ -1,0 +1,1 @@
+.loading{position:absolute;height:100vh;top:0;width:100vw;background:rgba(255,255,255,.5);z-index:999999999}.content-loading,.splash-logo{position:absolute;top:50%;left:50%;margin-right:-50%;transform:translate(-50%,-50%)}.splash-text{position:absolute;text-align:center;bottom:10px;left:50%;font-size:20px;margin-right:-50%;transform:translate(-50%,-50%)}
